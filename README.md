@@ -3,8 +3,7 @@ CID: 06058811 (Tim-Wei Schüler)
 ---
 
 ## Opening the Dashboard
-
-Double-click **`dashboard.html`** to open it in your browser. No server, no installation required. The file is fully self-contained (all data, charts, and scripts are embedded). 
+Download this folder and double-click **`dashboard.html`** to open it in your browser. No server, no installation required. The file is fully self-contained (all data, charts, and scripts are embedded). 
 
 ---
 
