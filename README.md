@@ -1,5 +1,5 @@
 # Sleep & Noise Dashboard — MSc IoT Project
-CID: 06058811 (Tim-Wei Schüler)
+CID: 06058811
 ---
 
 ## Opening the Dashboard
