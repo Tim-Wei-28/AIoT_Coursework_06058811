@@ -1,0 +1,11 @@
+Microphone:
+GPIO7 -> SCK
+GPIO6 -> WS
+GPIO5 -> SD
+
+SD Card
+SCK  -> GPIO21
+MOSI -> GPIO26
+MISO -> GPIO34
+CS   -> GPIO19
+VCC  -> 5V
